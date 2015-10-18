@@ -1,0 +1,14 @@
+/* Background */
+$bgColour: #666;
+
+/* Font properties */
+$fonts: 'Helvetica', 'Arial', sans-serif;
+$fontSize: 12pt;
+$fontColour: #FFF;
+
+body {
+    background-color: $bgColour;
+    font-family: $fonts;
+    font-size: $fontSize;
+    color: $fontColour;
+}
